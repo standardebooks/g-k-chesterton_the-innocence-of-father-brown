@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Innocence of Father Brown</dc:title>
 		<meta property="file-as" refines="#title">Innocence of Father Brown, The</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
@@ -34,21 +34,24 @@
 		<dc:subject id="subject-3">Detective and mystery stories, English</dc:subject>
 		<dc:subject id="subject-4">Catholics -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Brown, Father (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/204</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/204</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/204</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/204</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/204</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85026951</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85037269</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008100198</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2009117659</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Father Brown is a Catholic priest, but a slightly unusual one in that he’s &lt;em&gt;also&lt;/em&gt; an amateur detective. Unlike his more famous literary cousin Sherlock, Father Brown takes a less analytical and more intuition-oriented approach to solving the many murders that he happens to come across.&lt;/p&gt;
 			&lt;p&gt;This collection of short murder mysteries is Brown’s first appearance on the literary stage. In it we see him practicing his unique brand of sleuthing alongside his sometimes-partner, the reformed master criminal Flambeau.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/204</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000663081</dc:source>
