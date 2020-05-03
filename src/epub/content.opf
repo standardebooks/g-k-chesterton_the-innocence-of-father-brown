@@ -44,8 +44,8 @@
 		<meta property="term" refines="#subject-4">sh2008100198</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2009117659</meta>
-		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
