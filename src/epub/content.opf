@@ -49,7 +49,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Father Brown is a Catholic priest, but a slightly unusual one in that he’s &lt;em&gt;also&lt;/em&gt; an amateur detective. Unlike his more famous literary cousin Sherlock, Father Brown takes a less analytical and more intuition-oriented approach to solving the many murders that he happens to come across.&lt;/p&gt;
+			&lt;p&gt;Father Brown is a Catholic priest, but a slightly unusual one in that he’s &lt;em&gt;also&lt;/em&gt; an amateur detective. Unlike his more famous literary cousin &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock&lt;/a&gt;, Father Brown takes a less analytical and more intuition-oriented approach to solving the many murders that he happens to come across.&lt;/p&gt;
 			&lt;p&gt;This collection of short murder mysteries is Brown’s first appearance on the literary stage. In it we see him practicing his unique brand of sleuthing alongside his sometimes-partner, the reformed master criminal Flambeau.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
