@@ -36,6 +36,6 @@ section[epub|type~="dedication"] p{
 
 [epub|type~="z3998:valediction"]{
 	font-variant: small-caps;
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
