@@ -50,7 +50,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Father Brown</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">Amateur detective and Catholic priest Father Brown solves mysteries in this first collection of Father Brown short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
